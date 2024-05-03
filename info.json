@@ -1,0 +1,9 @@
+{
+    "name": "easy-trash-logistics-request",
+    "version": "0.1.0",
+    "title": "Easy Trash Logistics Request",
+    "author": "Oriek",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod adds a hotkey to create a 0 logistics request for the hovered item. Does not override existing requests."
+  }
